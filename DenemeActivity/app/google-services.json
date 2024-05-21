@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490574791883",
+    "project_id": "denemeactivity",
+    "storage_bucket": "denemeactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490574791883:android:f6111e3e210b038672074e",
+        "android_client_info": {
+          "package_name": "com.example.denemeactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2Wr-GYIUWIoSwlJwBTNPySM_hloIdIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
